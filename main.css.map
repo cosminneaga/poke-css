@@ -34,7 +34,7 @@
         "utils/form/_sizes.scss",
         "utils/form/_input-label.scss",
         "utils/form/_validation.scss",
-        "utils/gallery.scss",
+        "utils/_gallery.scss",
         "utils/_table.scss",
         "utils/variables/_color.scss",
         "utils/_modal.scss",
